@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techbrostanlee
 - 👀 I’m interested in javascript web development
-- 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on javascript projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects
 - 📫 you can reach me on stanleyike54@gmail.com 
 
 <!---
